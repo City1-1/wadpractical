@@ -1,2 +1,1 @@
-print("My name Ayush Jadhav
-        performing the lp-2 practical ")
+console.log("I am Ayush Jadhav performing the code of lp2 lab todays date 14-5-2026!");
